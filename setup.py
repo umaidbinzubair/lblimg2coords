@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 __version__ = "0.0.1"
 REPO_NAME = "lblimg2coords"
-PKG_NAME = "lblimg2coords"
+PKG_NAME = "lblimg2coord"
 AUTHOR_USER_NAME = "umaidbinzubair"
 AUTHOR_EMAIL = "umaidbinzubair@gmail.com"
 
