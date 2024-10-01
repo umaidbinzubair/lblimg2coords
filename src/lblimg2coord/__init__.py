@@ -1,0 +1,1 @@
+from .convert import convert_contours_to_polygons as convert_contours

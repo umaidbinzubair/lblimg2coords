@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 __version__ = "0.0.2"
-REPO_NAME = "lblimg2coords"
+REPO_NAME = "lblimg2coord"
 PKG_NAME = "lblimg2coord"
 AUTHOR_USER_NAME = "umaidbinzubair"
 AUTHOR_EMAIL = "umaidbinzubair@gmail.com"
@@ -24,7 +24,7 @@ setup(
     packages=find_packages(where="src"),
     entry_points={
         'console_scripts': [
-            'convert_contours=lblimg2coords.convert:main',
+            'convert_contours=lblimg2coord.convert:main',
         ],
     },
     classifiers=[
